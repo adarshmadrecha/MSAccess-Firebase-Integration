@@ -12,18 +12,22 @@ Before you can start using tools to create MS Access Applications which Connect 
 
 ##Broad Picture##
 The Idea is to use Firebase Rest API to talk to the Firebase for `CRUD`. These api's are extremely easy to learn and use. We will be storing the data in Access tables as well as in Firebase. If you are very new to Access programming, skip this section.
-  ###Create###
+
+  ### Create###
   1. Use `beforeUpdate` event on the Access Form to Hit `POST` api.
   2. Get Unique ID in response and set this as the `Record Id`
   3. Now Access will save the record
-  ###Read###
+  
+  ### Read###
   1. Create Refresh Button and Hit `GET` api
   2. Get data in Json
   3. Parse this Json and save it in the table
-  ###Update###
+  
+  ### Update###
   1. Use `beforeUpdate` event on the Access Form to Hit `PATCH` api.
   2. Now access will save the record
-  ###Delete###
+  
+  ### Delete###
   1. Create Delete Button and Hit `DELETE` api
   2. Execute SQL to Delete the record in Access table
 
