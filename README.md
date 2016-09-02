@@ -54,4 +54,5 @@ If you are an exprerienced developer or MS Access or Firebase.
   
 # Credits #
   1. [Json Parser]  (http://stackoverflow.com/a/7300926/4050261) -  [Codo] (http://stackoverflow.com/users/413337/codo)
-  2. [Asynchronous HTTP Request ] (http://www.utteraccess.com/wiki/index.php/Asynchronous_HTTP_Request_Class) Rick Cooney
+  2. [Asynchronous HTTP Request ] (http://www.utteraccess.com/wiki/index.php/Asynchronous_HTTP_Request_Class) - Rick Cooney
+  3. [HTTP Request ] (http://stackoverflow.com/a/158657/4050261) - Bill
